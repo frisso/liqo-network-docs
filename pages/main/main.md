@@ -11,7 +11,7 @@ Below you will find links to the available topics in this section:
 If you want details about each CRDs, you can check:
 
 - [Firewall Configuration](../crds/firewall.md): This page provides detailed information about each firewall configuration resource.
-- [Routing Configuration](../crds/routing.md): This page provides detailed information about each routing configuration resource.
+- [Routing Configuration](../crds/routes.md): This page provides detailed information about each routing configuration resource.
 - [IP](../crds/ip.md): This page provides detailed information about IP configuration resource and how they work.
 - [InternalNode](../crds/internalnode.md): This page provides detailed information about the InternalNode resource and its role in the Liqo network.
 
